@@ -2,11 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.7 (pytorch)" jdkType="Python SDK" />
-=======
-    <orderEntry type="inheritedJdk" />
->>>>>>> cce2dacc6754b94b3925ed8b66f0c963174cf6a6
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
